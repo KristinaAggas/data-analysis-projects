@@ -128,27 +128,29 @@ The data for this analysis were provided by Joan Boyd, Maria Delost, and John Ho
 
 ![PHOSMMOL Boxplot - Original vs Cleaned](./img/phosmmol-box-original_clean.png "PHOSMMOL Boxplot - Original vs Cleaned")
 
+![SEX Distribution Bar - Original vs Cleaned](./img/sex-bar-original_clean.png "SEX Distribution Bar - Original vs Cleaned")
 
-![][image8]
+![LAB Distribution Bar - Original vs Cleaned](./img/lab-bar-original_clean.png "LAB Distribution Bar - Original vs Cleaned")
 
-![][image9]
+![AGEGROUP Distribution Bar - Original vs Cleaned](./img/agegroup-bar-clean_original.png "AGEGROUP Distribution Bar - Original vs Cleaned")
 
-![][image10]
+![Mean ALKPHOS by SEX Bar](./img/alkphos-bar-sex.png: "Mean ALKPHOS by SEX Bar")
 
-![][image11]
+![Mean CAMMOL by SEX Bar](./img/cammol-bar-sex.png "Mean CAMMOL by SEX Bar")
 
-![][image12]
+![Mean PHOSMMOL by SEX Bar](./img/phosmmol-bar-sex.png "Mean PHOSMMOL by SEX Bar")
 
-![][image13]
+![Mean values by LAB and Variable Bar](./img/lab-values.png "Mean values by LAB and Variable Bar")
 
-![][image14]
+![Men vs Women by LAB](./img/lab-sex.png "Men vs Women by LAB")
 
-![][image15]
+![Correlation Coefficents](./img/correlation%20coefficients.png "Correlation Coefficents")
 
-![][image16]  
-![][image17]  
-![][image18]  
-![][image19]
+![Mean values by LAB and Variable - ALKPHOS Regression](./img/alkphos-reg.png "Mean values by LAB and Variable - ALKPHOS Regression")
+
+![Mean values by LAB and Variable - CAMMOL Regression](./img/cammol-reg.png "Mean values by LAB and Variable - CAMMOL Regression")
+
+![Mean values by LAB and Variable - PHOSMMOL Regression](./img/phosmmol-reg.png "Mean values by LAB and Variable - PHOSMMOL Regression")
 
 Of the 178 records, 175 (98%) had valid sex coding, while 3 (2%) had invalid sex coding. The mean age was 72 years, with four participants outside the valid range (\>120 years). ALKPHOS values were generally within the expected range, with one value being left blank. CAMMOL had a few more invalid values, with one being left blank and 13 values being \> 4.0 mmol/L. PHOSMMOL had one blank value and two values that were greater than 3.0 mmol/L. LAB codes were spread across six sites, with LAB 1, Metpath, accounting for \~50% of the sample. 
 
