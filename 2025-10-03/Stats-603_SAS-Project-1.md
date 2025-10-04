@@ -112,6 +112,7 @@ The data for this analysis were provided by Joan Boyd, Maria Delost, and John Ho
 
 ### **Visualizations**
 
+![Age - Original vs Cleaned](./img/age-original_clean.png "Age - Original vs Cleaned")
 ![][image1]
 
 ![][image2]
