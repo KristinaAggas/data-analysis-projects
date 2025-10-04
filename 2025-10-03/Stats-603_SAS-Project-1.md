@@ -116,15 +116,18 @@ The data for this analysis were provided by Joan Boyd, Maria Delost, and John Ho
 
 
 ![ALKPHOS - Original vs Cleaned](./img/alkphos-bar-original_cleaned.png "ALKPHOS - Original vs Cleaned")
-![][image2]
 
-![][image3]  
-![][image4]
 
-**![][image5]**  
-![][image6]
+![CAMMOL - Original vs Cleaned](./img/cammol-bar-original_cleaned.png "CAMMOL - Original vs Cleaned")
 
-![][image7]
+![PHOSMMOL - Original vs Cleaned](./img/phosmmol-bar-original_clean.png "PHOSMMOL - Original vs Cleaned")  
+
+![ALKPHOS Boxplot - Original vs Cleaned](./img/alkphos-box-original_clean.png "ALKPHOS Boxplot - Original vs Cleaned")
+
+![CAMMOL Boxplot - Original vs Cleaned](./img/cammol-box-original_clean.png: "CAMMOL Boxplot - Original vs Cleaned")
+
+![PHOSMMOL Boxplot - Original vs Cleaned](./img/phosmmol-box-original_clean.png "PHOSMMOL Boxplot - Original vs Cleaned")
+
 
 ![][image8]
 
