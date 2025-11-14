@@ -124,7 +124,7 @@ The data for this analysis were provided by Joan Boyd, Maria Delost, and John Ho
 
 ![ALKPHOS Boxplot - Original vs Cleaned](./img/alkphos-box-original_clean.png "ALKPHOS Boxplot - Original vs Cleaned")
 
-![CAMMOL Boxplot - Original vs Cleaned](./img/cammol-box-original_clean.png: "CAMMOL Boxplot - Original vs Cleaned")
+![CAMMOL Boxplot - Original vs Cleaned](./img/cammol-box-original_clean.png "CAMMOL Boxplot - Original vs Cleaned")
 
 ![PHOSMMOL Boxplot - Original vs Cleaned](./img/phosmmol-box-original_clean.png "PHOSMMOL Boxplot - Original vs Cleaned")
 
@@ -134,7 +134,7 @@ The data for this analysis were provided by Joan Boyd, Maria Delost, and John Ho
 
 ![AGEGROUP Distribution Bar - Original vs Cleaned](./img/agegroup-bar-clean_original.png "AGEGROUP Distribution Bar - Original vs Cleaned")
 
-![Mean ALKPHOS by SEX Bar](./img/alkphos-bar-sex.png: "Mean ALKPHOS by SEX Bar")
+![Mean ALKPHOS by SEX Bar](./img/alkphos-bar-sex.png "Mean ALKPHOS by SEX Bar")
 
 ![Mean CAMMOL by SEX Bar](./img/cammol-bar-sex.png "Mean CAMMOL by SEX Bar")
 
