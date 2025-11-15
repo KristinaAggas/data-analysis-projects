@@ -36,31 +36,37 @@ A full regression analysis exploring how seasonality, weather patterns, and envi
 **Highlights:**
 - Built multiple linear regression models  
 - Included transformed predictors (e.g., log temperature, humidity)  
-- Examined multicollinearity, VIF, and diagnostics  
-- Compared Python and SAS implementations  
+- Examined multicollinearity, VIF, and diagnostics   
 - Produced an interpretable final model explaining rental behavior
 
-👉 **[View project folder](./2025-11-14/)**
+👉 **[View project folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-11-14)**
 
 ---
 
 ## 📂 **Other Projects**
 
-### **Project – 2025-10-12**
-_Short description placeholder—update after we review the project folder contents._  
-👉 [Open Folder](./2025-10-12/)
+### **Project – 2025-11-10 - LA Crime Analysis**
+_A Data Camp project where I analyzed Los Angeles crime data to identify patterns in criminal behavior._  
+👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-11-10)
 
 ---
 
-### **Project – 2025-10-11**
-_Short description placeholder—update once we confirm contents._  
-👉 [Open Folder](./2025-10-11/)
+### **Project – 2025-10-12 - Analyzing SAT Scores of New York High School Students**
+_A Data Camp project where I analyzed New York High Schools by their students' SAT scores._  
+👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-10-12)
 
 ---
 
-### **Project – 2025-10-03**
-_Short description placeholder—Update when ready._  
-👉 [Open Folder](./2025-10-03/)
+### **Project – 2025-10-11 - Sorting 90's Netflix Movies using Python **
+_A Data Camp project where I conducted an exploratory data analysis to better understand the top 90's movies on Netflix._  
+👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-10-11)
+
+---
+
+### **Project – 2025-10-03 - Identifying Gender Differences in Mean Chemical Values using SAS**
+_My first SAS project, where I attempted to determine if significant gender differences exist in the mean values
+of calcium, inorganic phosphorus, and alkaline phosphatase in subjects over age 65_  
+👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-10-03)
 
 ---
 
@@ -93,6 +99,6 @@ _Short description placeholder—Update when ready._
 Feel free to connect if you'd like to talk about analytics, research, or internships.
 
 - GitHub: **[@KristinaAggas](https://github.com/KristinaAggas)**
-- (Add LinkedIn or email here if you'd like)
+- LinkedIn: **[Visit My Profile](https://www.linkedin.com/in/kristina-aggas/)**
 
 ---

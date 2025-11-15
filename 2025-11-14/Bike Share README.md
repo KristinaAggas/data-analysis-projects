@@ -1,1 +1,0 @@
-I wrote this paper as part of a project for my Regression Methods midterm. I originally wrote the methods, analysis, and results section as part of a group project, and went on to write my own introduction, discussion, and conclusion so I could have a full paper to post here as part of my portfolio.
