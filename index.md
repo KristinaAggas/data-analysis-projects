@@ -57,7 +57,7 @@ _A Data Camp project where I analyzed New York High Schools by their students' S
 
 ---
 
-### **Project – 2025-10-11 - Sorting 90's Netflix Movies using Python **
+### **Project – 2025-10-11 - Sorting 90's Netflix Movies using Python**
 _A Data Camp project where I conducted an exploratory data analysis to better understand the top 90's movies on Netflix._  
 👉 [Open Folder](https://github.com/KristinaAggas/data-analysis-projects/tree/main/2025-10-11)
 
